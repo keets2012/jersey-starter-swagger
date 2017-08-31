@@ -33,31 +33,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="580">
-                <caret line="91" column="3" lean-forward="false" selection-start-line="91" selection-start-column="3" selection-end-line="91" selection-end-column="3" />
+              <first_editor relative-caret-position="-401">
+                <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
                 <folding>
-                  <marker date="1504161621000" expanded="true" signature="327:453" ph="..." />
-                  <marker date="1504161621000" expanded="true" signature="502:543" ph="@{...}" />
-                  <marker date="1504161621000" expanded="false" signature="612:623" ph=" { " />
-                  <marker date="1504161621000" expanded="false" signature="668:674" ph=" }" />
-                  <marker date="1504161621000" expanded="true" signature="911:1251" ph="swagger: &lt;10 keys&gt;" />
-                  <marker date="1504161621000" expanded="true" signature="931:935" ph="true" />
-                  <marker date="1504161621000" expanded="true" signature="945:972" ph="spring-bo…er-swagger" />
-                  <marker date="1504161621000" expanded="true" signature="986:994" ph="demo-mvc" />
-                  <marker date="1504161621000" expanded="true" signature="1006:1008" ph="v2" />
-                  <marker date="1504161621000" expanded="true" signature="1020:1047" ph="Apache Li…ersion 2.0" />
-                  <marker date="1504161621000" expanded="true" signature="1062:1110" ph="https://w…E-2.0.html" />
-                  <marker date="1504161621000" expanded="true" signature="1132:1183" ph="http://gi…er-swagger" />
-                  <marker date="1504161621000" expanded="true" signature="1195:1200" ph="keets" />
-                  <marker date="1504161621000" expanded="true" signature="1214:1217" ph="/**" />
-                  <marker date="1504161621000" expanded="true" signature="1238:1251" ph="cn.keets.demo" />
+                  <marker date="1504161681000" expanded="true" signature="327:453" ph="..." />
+                  <marker date="1504161681000" expanded="true" signature="502:543" ph="@{...}" />
+                  <marker date="1504161681000" expanded="false" signature="612:623" ph=" { " />
+                  <marker date="1504161681000" expanded="false" signature="668:674" ph=" }" />
+                  <marker date="1504161681000" expanded="true" signature="911:1251" ph="swagger: &lt;10 keys&gt;" />
+                  <marker date="1504161681000" expanded="true" signature="931:935" ph="true" />
+                  <marker date="1504161681000" expanded="true" signature="945:972" ph="spring-bo…er-swagger" />
+                  <marker date="1504161681000" expanded="true" signature="986:994" ph="demo-mvc" />
+                  <marker date="1504161681000" expanded="true" signature="1006:1008" ph="v2" />
+                  <marker date="1504161681000" expanded="true" signature="1020:1047" ph="Apache Li…ersion 2.0" />
+                  <marker date="1504161681000" expanded="true" signature="1062:1110" ph="https://w…E-2.0.html" />
+                  <marker date="1504161681000" expanded="true" signature="1132:1183" ph="http://gi…er-swagger" />
+                  <marker date="1504161681000" expanded="true" signature="1195:1200" ph="keets" />
+                  <marker date="1504161681000" expanded="true" signature="1214:1217" ph="/**" />
+                  <marker date="1504161681000" expanded="true" signature="1238:1251" ph="cn.keets.demo" />
                 </folding>
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -111,6 +121,7 @@
         <option value="$PROJECT_DIR$/src/main/java/cn/keets/swagger/SwaggerAutoConfiguration.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -593,12 +604,12 @@
       <option name="presentableId" value="Default" />
       <updated>1503969594342</updated>
       <workItem from="1503969604398" duration="23000000" />
-      <workItem from="1504160508566" duration="1102000" />
+      <workItem from="1504160508566" duration="1198000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24102000" />
+    <option name="totallyTimeSpent" value="24198000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="213" width="1920" height="1080" extended-state="6" />
@@ -782,27 +793,35 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="580">
-            <caret line="91" column="3" lean-forward="false" selection-start-line="91" selection-start-column="3" selection-end-line="91" selection-end-column="3" />
+          <first_editor relative-caret-position="-401">
+            <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
             <folding>
-              <marker date="1504161621000" expanded="true" signature="327:453" ph="..." />
-              <marker date="1504161621000" expanded="true" signature="502:543" ph="@{...}" />
-              <marker date="1504161621000" expanded="false" signature="612:623" ph=" { " />
-              <marker date="1504161621000" expanded="false" signature="668:674" ph=" }" />
-              <marker date="1504161621000" expanded="true" signature="911:1251" ph="swagger: &lt;10 keys&gt;" />
-              <marker date="1504161621000" expanded="true" signature="931:935" ph="true" />
-              <marker date="1504161621000" expanded="true" signature="945:972" ph="spring-bo…er-swagger" />
-              <marker date="1504161621000" expanded="true" signature="986:994" ph="demo-mvc" />
-              <marker date="1504161621000" expanded="true" signature="1006:1008" ph="v2" />
-              <marker date="1504161621000" expanded="true" signature="1020:1047" ph="Apache Li…ersion 2.0" />
-              <marker date="1504161621000" expanded="true" signature="1062:1110" ph="https://w…E-2.0.html" />
-              <marker date="1504161621000" expanded="true" signature="1132:1183" ph="http://gi…er-swagger" />
-              <marker date="1504161621000" expanded="true" signature="1195:1200" ph="keets" />
-              <marker date="1504161621000" expanded="true" signature="1214:1217" ph="/**" />
-              <marker date="1504161621000" expanded="true" signature="1238:1251" ph="cn.keets.demo" />
+              <marker date="1504161681000" expanded="true" signature="327:453" ph="..." />
+              <marker date="1504161681000" expanded="true" signature="502:543" ph="@{...}" />
+              <marker date="1504161681000" expanded="false" signature="612:623" ph=" { " />
+              <marker date="1504161681000" expanded="false" signature="668:674" ph=" }" />
+              <marker date="1504161681000" expanded="true" signature="911:1251" ph="swagger: &lt;10 keys&gt;" />
+              <marker date="1504161681000" expanded="true" signature="931:935" ph="true" />
+              <marker date="1504161681000" expanded="true" signature="945:972" ph="spring-bo…er-swagger" />
+              <marker date="1504161681000" expanded="true" signature="986:994" ph="demo-mvc" />
+              <marker date="1504161681000" expanded="true" signature="1006:1008" ph="v2" />
+              <marker date="1504161681000" expanded="true" signature="1020:1047" ph="Apache Li…ersion 2.0" />
+              <marker date="1504161681000" expanded="true" signature="1062:1110" ph="https://w…E-2.0.html" />
+              <marker date="1504161681000" expanded="true" signature="1132:1183" ph="http://gi…er-swagger" />
+              <marker date="1504161681000" expanded="true" signature="1195:1200" ph="keets" />
+              <marker date="1504161681000" expanded="true" signature="1214:1217" ph="/**" />
+              <marker date="1504161681000" expanded="true" signature="1238:1251" ph="cn.keets.demo" />
             </folding>
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
