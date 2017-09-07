@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>cn.keets</groupId>
+    <groupId>club.hacloud</groupId>
     <artifactId>jersey-starter-swagger</artifactId>
     <version>1.0.0.RELEASE</version>
 
@@ -12,11 +12,11 @@
     <url>http://git.oschina.net/keets/jersey-starter-swagger</url>
     <description>starter for swagger2</description>
 
-<!--    <parent>
+    <parent>
         <groupId>org.sonatype.oss</groupId>
         <artifactId>oss-parent</artifactId>
         <version>7</version>
-    </parent>-->
+    </parent>
 
     <licenses>
         <license>
