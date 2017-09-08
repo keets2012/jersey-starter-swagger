@@ -14,7 +14,8 @@
 *.jar
 *.war
 *.ear
-
+pom.xml.releaseBackup
+release.properties
 target/
 *.iml
 auditlog/
