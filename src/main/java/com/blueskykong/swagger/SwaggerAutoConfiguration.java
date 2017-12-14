@@ -1,4 +1,4 @@
-package cn.keets.swagger;
+package com.blueskykong.swagger;
 
 import io.swagger.jaxrs.config.BeanConfig;
 import io.swagger.jaxrs.listing.ApiListingResource;

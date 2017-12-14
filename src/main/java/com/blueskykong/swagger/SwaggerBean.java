@@ -1,4 +1,4 @@
-package cn.keets.swagger;
+package com.blueskykong.swagger;
 
 import io.swagger.models.Info;
 import lombok.Data;

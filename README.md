@@ -2,8 +2,6 @@
 
 该项目主要利用Spring Boot的自动化配置特性来实现快速的将swagger2引入spring boot应用来生成jersey的API文档，简化原生使用swagger2的整合代码。
 
-**小工具一枚，欢迎使用和Star支持，如使用过程中碰到问题，可以提出Issue，我会尽力完善该Starter**
-
 # 版本基础
 
 - Spring Boot：1.5.x
@@ -85,10 +83,28 @@ swagger:
 - swagger.resource-package=swagger扫描的基础包，默认：全扫描
 - swagger.base-path=需要处理的基础URL规则，默认：/**
 ```
-
+   
+   
 > swagger ui未包含在项目中，大家可以自己部署静态文件，通过静态文件解析json
 
 如下图所示：
 ![静态部署](http://ovci9bs39.bkt.clouddn.com/swagger.png)
+
+### 项目地址
+github：https://github.com/keets2012/jersey-starter-swagger   
+demo git地址：http://git.oschina.net/keets/spring-boot-samples/tree/master/demo-jersey-starter
+
+**你的star是对我最好的鼓励^_^**
+
+
+### 订阅最新文章，欢迎关注我的公众号
+
+![微信公众号](http://ovci9bs39.bkt.clouddn.com/qrcode_for_gh_ca56415d4966_430.jpg)
+
+---
+参考：   
+[spring-boot-starter-swagger 1.3.0.RELEASE：新增对JSR-303的支持和host的配置](http://blog.didispace.com/spring-boot-starter-swagger-1.3.0/)
+
+
 
 

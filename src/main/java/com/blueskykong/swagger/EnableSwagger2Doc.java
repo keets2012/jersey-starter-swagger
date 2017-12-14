@@ -1,4 +1,4 @@
-package cn.keets.swagger;
+package com.blueskykong.swagger;
 
 import org.springframework.context.annotation.Import;
 
