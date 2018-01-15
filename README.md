@@ -1,6 +1,6 @@
 # 简介
 
-该项目主要利用Spring Boot的自动化配置特性来实现快速的将swagger2引入spring boot应用来生成jersey的API文档，简化原生使用swagger2的整合代码。
+该项目主要利用Spring Boot的自动化配置特性来实现快速的将swagger2引入spring boot应用来生成Jersey的API文档，简化原生使用swagger2的整合代码。
 
 # 版本基础
 
